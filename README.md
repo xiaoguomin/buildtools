@@ -10,5 +10,5 @@ This repository contains developer tools for working with Google's `bazel` build
 [![Build status](https://badge.buildkite.com/6a80fcf7909883296cada2e474286ea627994b9130aed110e2.svg)](https://buildkite.com/bazel/buildtools-postsubmit)
 
 ## Setup
-
+## get up leanning now
 See instructions in each tool's directory.
